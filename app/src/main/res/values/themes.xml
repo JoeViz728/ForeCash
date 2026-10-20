@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ForeCash" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Material You / Dynamic color will be applied in Compose -->
+    </style>
+</resources>

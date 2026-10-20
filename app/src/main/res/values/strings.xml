@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForeCash</string>
+    <string name="projected_balance">Projected balance</string>
+    <string name="best_case">Best case</string>
+    <string name="worst_case">Worst case</string>
+    <string name="set_actual_balance">Set actual balance</string>
+    <string name="add_transaction">Add transaction</string>
+</resources>
